@@ -1,0 +1,3 @@
+class BestFirst
+
+end
